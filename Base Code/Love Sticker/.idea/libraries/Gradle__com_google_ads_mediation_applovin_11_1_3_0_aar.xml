@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.ads.mediation:applovin:11.1.3.0@aar" external-system-id="GRADLE">
+    <ANNOTATIONS>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/6c6fafd857fa51286ccaee73eadaf407/transformed/jetified-applovin-11.1.3.0/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/6c6fafd857fa51286ccaee73eadaf407/transformed/jetified-applovin-11.1.3.0/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/6c6fafd857fa51286ccaee73eadaf407/transformed/jetified-applovin-11.1.3.0/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.ads.mediation/applovin/11.1.3.0/94088071660b169c0796106c5f495fe4a3b040b8/applovin-11.1.3.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

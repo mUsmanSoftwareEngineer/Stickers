@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.android.billingclient:billing:4.1.0@aar" external-system-id="GRADLE">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/39a72a966a0d83e64ee75a28f2e10f83/transformed/jetified-billing-4.1.0/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/39a72a966a0d83e64ee75a28f2e10f83/transformed/jetified-billing-4.1.0/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.billingclient/billing/4.1.0/af03ab466448bbd480720d71f199d508eb9f8c37/billing-4.1.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES />
+  </library>
+</component>

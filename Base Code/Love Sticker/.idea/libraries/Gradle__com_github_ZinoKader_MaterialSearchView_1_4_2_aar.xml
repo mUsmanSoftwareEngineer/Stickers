@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.ZinoKader:MaterialSearchView:1.4.2@aar" external-system-id="GRADLE">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/a46f6c3707f0e4297fe69896d2eee92f/transformed/jetified-MaterialSearchView-1.4.2/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/a46f6c3707f0e4297fe69896d2eee92f/transformed/jetified-MaterialSearchView-1.4.2/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/a46f6c3707f0e4297fe69896d2eee92f/transformed/jetified-MaterialSearchView-1.4.2/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.ZinoKader/MaterialSearchView/1.4.2/61baf79de163e251c1202e012106edf828e050fd/MaterialSearchView-1.4.2-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.ZinoKader/MaterialSearchView/1.4.2/4e26d67b3e7d29fd0470e005d4bfe0383cd91dc7/MaterialSearchView-1.4.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

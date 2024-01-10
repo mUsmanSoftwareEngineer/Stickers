@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: com.inmobi.omsdk:inmobi-omsdk:1.3.17.1@aar" external-system-id="GRADLE">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/69a57f685e7ec1fc5a4d87d8dc7ce92c/transformed/jetified-inmobi-omsdk-1.3.17.1/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/69a57f685e7ec1fc5a4d87d8dc7ce92c/transformed/jetified-inmobi-omsdk-1.3.17.1/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

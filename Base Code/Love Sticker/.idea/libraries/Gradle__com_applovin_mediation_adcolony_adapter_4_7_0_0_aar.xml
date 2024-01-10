@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.applovin.mediation:adcolony-adapter:4.7.0.0@aar" external-system-id="GRADLE">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/02a7b5f3e360b221a196276e5c86a259/transformed/jetified-adcolony-adapter-4.7.0.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/02a7b5f3e360b221a196276e5c86a259/transformed/jetified-adcolony-adapter-4.7.0.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.applovin.mediation/adcolony-adapter/4.7.0.0/f4652e8cc6937f4489eaff6f400606d89bf9ca28/adcolony-adapter-4.7.0.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
